@@ -1,0 +1,32 @@
+body {
+	background: rgb(68, 115, 181);
+	color: #fff;
+}
+
+.xmen img {
+	width: auto;
+	height: 15em;
+}
+
+ul {
+	list-style: none;
+}
+
+.searchList li {
+	display: inline-block;
+	padding: 1em;
+}
+
+ .search h1 {
+	color: yellow;
+	font-family: 'Helvetica', san-serif;
+	font-size: 5em;
+	text-align: center;
+}
+
+.search input {
+	width: 50%;
+	height: 3em;
+	margin: 0 25% 5%;
+}
+

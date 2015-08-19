@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="listApp">
+<head>
+	<meta charset="UTF-8">
+	<title>X-men: First Class</title>
+	<script src="lib/angular/angular.min.js"></script>
+	<script src="js/controllers.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div ng-controller = "SearchController">
+		<ul class="searchList">
+			<div class="search">
+				<h1>Mutant Directory</h1>
+				<input ng-model="query" placeholder="Search Mutants" autofocus>
+			</div>
+			<li class="xmen cf" ng-repeat="item in xmen | filter: query">
+				<img ng-src="img/{{item.shortname}}_tn.jpg" alt="Photo of {{item.name}}">
+				<div class="info">
+					<h2>{{item.alias}}</h2>
+					<h3>{{item.name}}</h3>
+					<h3>{{item.group}}
+				</div>
+			</li>
+		</ul>
+
+	</div>
+</body>
+</html>

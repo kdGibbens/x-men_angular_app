@@ -1,0 +1,90 @@
+[
+	{
+		"name":"Professor Charles Xaiver",
+		"alias":"Professor X",
+		"shortname":"prof_x",
+		"group":"X-Men",
+		"power":"telekenisis and telepathy",
+		"bio":"..."
+	},
+	{
+		"name":"Scott Summers",
+		"alias":"Cyclops",
+		"shortname":"cyclops",
+		"group":"X-Men",
+		"power":"Cuncussive blast from eyes",
+		"bio":"..."
+	},
+	{
+		"name":"Jean Grey",
+		"alias":"Marvel Girl",
+		"shortname":"marvel_girl",
+		"group":"X-Men",
+		"power":"telekensis and telepathy",
+		"bio":"..."
+	},
+	{
+		"name":"Bobby Drake",
+		"alias":"Iceman",
+		"shortname":"iceman",
+		"group":"X-Men",
+		"power":"ice manipulation",
+		"bio":"..."
+	},
+	{
+		"name":"Henry McCoy",
+		"alias":"Beast",
+		"shortname":"beast",
+		"group":"X-Men",
+		"power":"superhuman strength, speed, stamina, agility, reflexes, and durability.",
+		"bio":"..."
+	},
+	{
+		"name":"Warren Worthington III",
+		"alias":"Angel",
+		"shortname":"angel",
+		"group":"X-Men",
+		"power":"feathered wings on his back for natural flight.",
+		"bio":"..."
+	},
+	{
+		"name":"Erik Lehnsherr",
+		"alias":"Magneto",
+		"shortname":"magneto",
+		"group":"Brotherhood of Evil Mutants",
+		"power":"magnetic manipulation",
+		"bio":"..."
+	},
+	{
+		"name":"Pietro Maximoff",
+		"alias":"Quicksilver",
+		"shortname":"quicksilver",
+		"group": "Brotherhood of Evil Mutants",
+		"power": "superhuman speed",
+		"bio": "..."
+	},
+	{
+		"name":"Wanda Maximoff",
+		"alias":"Scarlet Witch",
+		"shortname":"scarlet_witch",
+		"group":"Brotherhood of Evil Mutants",
+		"power":"ability to alter reality",
+		"bio":"..."
+	},
+	{
+		"name":"Mortimer Toynbee",
+		"alias":"Toad",
+		"shortname":"toad",
+		"group":"Brotherhood of Evil Mutants",
+		"power":"superhuman leaping",
+		"bio":"..."
+	},
+	{
+		"name":"Jason Wyngarde",
+		"alias":"Mastermind",
+		"shortname":"mastermind",
+		"group":"Brotherhood of Evil Mutants",
+		"power":"illusions of sight",
+		"bio":"..."
+	}
+]
